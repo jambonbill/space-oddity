@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SpaceOddity" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Oddity" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="..\..\allegro\lib\mingw32\liballeg.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Oddity" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:\allegro\lib\mingw32\liballeg.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="control.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="control.h" />
+		<Unit filename="editor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="editor.h" />
+		<Unit filename="enemy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enemy.h" />
+		<Unit filename="events.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="events.h" />
+		<Unit filename="gfx.h" />
+		<Unit filename="gme\Ay_Apu.cpp" />
+		<Unit filename="gme\Ay_Apu.h" />
+		<Unit filename="gme\Ay_Cpu.cpp" />
+		<Unit filename="gme\Ay_Cpu.h" />
+		<Unit filename="gme\Ay_Emu.cpp" />
+		<Unit filename="gme\Ay_Emu.h" />
+		<Unit filename="gme\Blip_Buffer.cpp" />
+		<Unit filename="gme\Blip_Buffer.h" />
+		<Unit filename="gme\Classic_Emu.cpp" />
+		<Unit filename="gme\Classic_Emu.h" />
+		<Unit filename="gme\Data_Reader.cpp" />
+		<Unit filename="gme\Data_Reader.h" />
+		<Unit filename="gme\Dual_Resampler.cpp" />
+		<Unit filename="gme\Dual_Resampler.h" />
+		<Unit filename="gme\Effects_Buffer.cpp" />
+		<Unit filename="gme\Effects_Buffer.h" />
+		<Unit filename="gme\Fir_Resampler.cpp" />
+		<Unit filename="gme\Fir_Resampler.h" />
+		<Unit filename="gme\Gb_Apu.cpp" />
+		<Unit filename="gme\Gb_Apu.h" />
+		<Unit filename="gme\Gb_Cpu.cpp" />
+		<Unit filename="gme\Gb_Cpu.h" />
+		<Unit filename="gme\Gb_Oscs.cpp" />
+		<Unit filename="gme\Gb_Oscs.h" />
+		<Unit filename="gme\Gbs_Emu.cpp" />
+		<Unit filename="gme\Gbs_Emu.h" />
+		<Unit filename="gme\Gme_File.cpp" />
+		<Unit filename="gme\Gme_File.h" />
+		<Unit filename="gme\Gym_Emu.cpp" />
+		<Unit filename="gme\Gym_Emu.h" />
+		<Unit filename="gme\Hes_Apu.cpp" />
+		<Unit filename="gme\Hes_Apu.h" />
+		<Unit filename="gme\Hes_Cpu.cpp" />
+		<Unit filename="gme\Hes_Cpu.h" />
+		<Unit filename="gme\Hes_Emu.cpp" />
+		<Unit filename="gme\Hes_Emu.h" />
+		<Unit filename="gme\Kss_Cpu.cpp" />
+		<Unit filename="gme\Kss_Cpu.h" />
+		<Unit filename="gme\Kss_Emu.cpp" />
+		<Unit filename="gme\Kss_Emu.h" />
+		<Unit filename="gme\Kss_Scc_Apu.cpp" />
+		<Unit filename="gme\Kss_Scc_Apu.h" />
+		<Unit filename="gme\M3u_Playlist.cpp" />
+		<Unit filename="gme\M3u_Playlist.h" />
+		<Unit filename="gme\Multi_Buffer.cpp" />
+		<Unit filename="gme\Multi_Buffer.h" />
+		<Unit filename="gme\Music_Emu.cpp" />
+		<Unit filename="gme\Music_Emu.h" />
+		<Unit filename="gme\Nes_Apu.cpp" />
+		<Unit filename="gme\Nes_Apu.h" />
+		<Unit filename="gme\Nes_Cpu.cpp" />
+		<Unit filename="gme\Nes_Cpu.h" />
+		<Unit filename="gme\Nes_Fme7_Apu.cpp" />
+		<Unit filename="gme\Nes_Fme7_Apu.h" />
+		<Unit filename="gme\Nes_Namco_Apu.cpp" />
+		<Unit filename="gme\Nes_Namco_Apu.h" />
+		<Unit filename="gme\Nes_Oscs.cpp" />
+		<Unit filename="gme\Nes_Oscs.h" />
+		<Unit filename="gme\Nes_Vrc6_Apu.cpp" />
+		<Unit filename="gme\Nes_Vrc6_Apu.h" />
+		<Unit filename="gme\Nsf_Emu.cpp" />
+		<Unit filename="gme\Nsf_Emu.h" />
+		<Unit filename="gme\Nsfe_Emu.cpp" />
+		<Unit filename="gme\Nsfe_Emu.h" />
+		<Unit filename="gme\Sap_Apu.cpp" />
+		<Unit filename="gme\Sap_Apu.h" />
+		<Unit filename="gme\Sap_Cpu.cpp" />
+		<Unit filename="gme\Sap_Cpu.h" />
+		<Unit filename="gme\Sap_Emu.cpp" />
+		<Unit filename="gme\Sap_Emu.h" />
+		<Unit filename="gme\Sms_Apu.cpp" />
+		<Unit filename="gme\Sms_Apu.h" />
+		<Unit filename="gme\Sms_Oscs.h" />
+		<Unit filename="gme\Snes_Spc.cpp" />
+		<Unit filename="gme\Snes_Spc.h" />
+		<Unit filename="gme\Spc_Cpu.cpp" />
+		<Unit filename="gme\Spc_Cpu.h" />
+		<Unit filename="gme\Spc_Dsp.cpp" />
+		<Unit filename="gme\Spc_Dsp.h" />
+		<Unit filename="gme\Spc_Emu.cpp" />
+		<Unit filename="gme\Spc_Emu.h" />
+		<Unit filename="gme\Vgm_Emu.cpp" />
+		<Unit filename="gme\Vgm_Emu.h" />
+		<Unit filename="gme\Vgm_Emu_Impl.cpp" />
+		<Unit filename="gme\Vgm_Emu_Impl.h" />
+		<Unit filename="gme\Ym2413_Emu.cpp" />
+		<Unit filename="gme\Ym2413_Emu.h" />
+		<Unit filename="gme\Ym2612_Emu.cpp" />
+		<Unit filename="gme\Ym2612_Emu.h" />
+		<Unit filename="gme\blargg_common.h" />
+		<Unit filename="gme\blargg_config.h" />
+		<Unit filename="gme\blargg_endian.h" />
+		<Unit filename="gme\blargg_source.h" />
+		<Unit filename="gme\gb_cpu_io.h" />
+		<Unit filename="gme\gme.cpp" />
+		<Unit filename="gme\gme.h" />
+		<Unit filename="gme\hes_cpu_io.h" />
+		<Unit filename="gme\nes_cpu_io.h" />
+		<Unit filename="gme\sap_cpu_io.h" />
+		<Unit filename="hisc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hisc.h" />
+		<Unit filename="intro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="intro.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Unit filename="options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="options.h" />
+		<Unit filename="sfx.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

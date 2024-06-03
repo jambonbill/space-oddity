@@ -1,0 +1,848 @@
+# depslib dependency file v1.0
+1238216143 source:c:\c\odddity\enemy.c
+
+1238430475 source:c:\c\odddity\intro.c
+	<allegro.h>
+	<math.h>
+	<string.h>
+	"control.h"
+	"options.h"
+	"main.h"
+
+1238427944 c:\c\odddity\main.h
+	"allegro.h"
+	"control.h"
+
+1059220432 c:\c\odddity\control.h
+	<stdio.h>
+
+1059220432 source:c:\c\odddity\options.c
+	<stdio.h>
+	"options.h"
+
+1236304781 c:\c\odddity\options.h
+	"allegro.h"
+
+1236881035 source:c:\c\odddity\control.c
+	"allegro.h"
+	"control.h"
+
+1238512682 source:c:\c\odddity\main.c
+	<allegro.h>
+	<string.h>
+	"gfx.h"
+	"sfx.h"
+	"bg.h"
+	"control.h"
+	"options.h"
+	"main.h"
+
+1238219844 c:\c\odddity\gfx.h
+
+1236919867 c:\c\odddity\bg.h
+
+1238432790 c:\c\odddity\sfx.h
+
+1238216144 source:c:\c\oddity\enemy.c
+
+1239035368 source:c:\c\oddity\intro.c
+	<allegro.h>
+	<math.h>
+	<string.h>
+	"control.h"
+	"options.h"
+	"main.h"
+
+1059220432 c:\c\oddity\control.h
+	<stdio.h>
+
+1236304782 c:\c\oddity\options.h
+	"allegro.h"
+
+1238427946 c:\c\oddity\main.h
+	"allegro.h"
+	"control.h"
+
+1239088876 source:c:\c\oddity\main.c
+	<allegro.h>
+	<string.h>
+	"gfx.h"
+	"sfx.h"
+	"bg.h"
+	"control.h"
+	"options.h"
+	"main.h"
+
+1239024162 c:\c\oddity\gfx.h
+
+1238432792 c:\c\oddity\sfx.h
+
+1236919868 c:\c\oddity\bg.h
+
+1059220432 source:c:\c\oddity\options.c
+	<stdio.h>
+	"options.h"
+
+1236881036 source:c:\c\oddity\control.c
+	"allegro.h"
+	"control.h"
+
+1239190385 source:c:\c\oddity0.01\enemy.c
+	<allegro.h>
+	<math.h>
+	"main.h"
+	"gfx.h"
+	"sfx.h"
+
+1239192319 source:c:\c\oddity0.01\intro.c
+	<allegro.h>
+	<math.h>
+	<string.h>
+	"control.h"
+	"options.h"
+	"main.h"
+
+1059220432 c:\c\oddity0.01\control.h
+	<stdio.h>
+
+1236304782 c:\c\oddity0.01\options.h
+	"allegro.h"
+
+1239190334 c:\c\oddity0.01\main.h
+	"allegro.h"
+	"control.h"
+
+1239192319 source:c:\c\oddity0.01\main.c
+	<allegro.h>
+	<string.h>
+	<math.h>
+	"gfx.h"
+	"sfx.h"
+	"bg.h"
+	"control.h"
+	"options.h"
+	"enemy.h"
+	"intro.h"
+	"main.h"
+
+1239024162 c:\c\oddity0.01\gfx.h
+
+1238432792 c:\c\oddity0.01\sfx.h
+
+1236919868 c:\c\oddity0.01\bg.h
+
+1059220432 source:c:\c\oddity0.01\options.c
+	<stdio.h>
+	"options.h"
+
+1236881036 source:c:\c\oddity0.01\control.c
+	"allegro.h"
+	"control.h"
+
+1239189094 c:\c\oddity0.01\enemy.h
+
+1239192319 c:\c\oddity0.01\intro.h
+
+1239274559 source:c:\c\oddity0.02\enemy.c
+	<allegro.h>
+	<math.h>
+	"main.h"
+	"gfx.h"
+	"sfx.h"
+
+1239274492 c:\c\oddity0.02\main.h
+	"allegro.h"
+	"control.h"
+
+1059220432 c:\c\oddity0.02\control.h
+	<stdio.h>
+
+1239273106 c:\c\oddity0.02\gfx.h
+
+1238432792 c:\c\oddity0.02\sfx.h
+
+1239273568 source:c:\c\oddity0.02\intro.c
+	<allegro.h>
+	<math.h>
+	<string.h>
+	"control.h"
+	"options.h"
+	"main.h"
+
+1236304782 c:\c\oddity0.02\options.h
+	"allegro.h"
+
+1239276228 source:c:\c\oddity0.02\main.c
+	<allegro.h>
+	<string.h>
+	<math.h>
+	"gfx.h"
+	"sfx.h"
+	"bg.h"
+	"control.h"
+	"options.h"
+	"enemy.h"
+	"intro.h"
+	"main.h"
+
+1236919868 c:\c\oddity0.02\bg.h
+
+1239189096 c:\c\oddity0.02\enemy.h
+
+1239273873 c:\c\oddity0.02\intro.h
+
+1059220432 source:c:\c\oddity0.02\options.c
+	<stdio.h>
+	"options.h"
+
+1236881036 source:c:\c\oddity0.02\control.c
+	"allegro.h"
+	"control.h"
+
+1239439954 source:c:\c\oddity0.03\enemy.c
+	<allegro.h>
+	<math.h>
+	"main.h"
+	"gfx.h"
+	"sfx.h"
+
+1239437280 c:\c\oddity0.03\main.h
+	"allegro.h"
+	"control.h"
+
+1059220432 c:\c\oddity0.03\control.h
+	<stdio.h>
+
+1239431721 c:\c\oddity0.03\gfx.h
+
+1238432792 c:\c\oddity0.03\sfx.h
+
+1239442592 source:c:\c\oddity0.03\intro.c
+	<allegro.h>
+	<math.h>
+	<string.h>
+	"control.h"
+	"options.h"
+	"main.h"
+
+1236304782 c:\c\oddity0.03\options.h
+	"allegro.h"
+
+1059220432 source:c:\c\oddity0.03\options.c
+	<stdio.h>
+	"options.h"
+
+1236881036 source:c:\c\oddity0.03\control.c
+	"allegro.h"
+	"control.h"
+
+1239443343 source:c:\c\oddity0.03\main.c
+	<allegro.h>
+	<string.h>
+	<math.h>
+	"gfx.h"
+	"sfx.h"
+	"bg.h"
+	"control.h"
+	"options.h"
+	"enemy.h"
+	"intro.h"
+	"main.h"
+
+1236919868 c:\c\oddity0.03\bg.h
+
+1239438615 c:\c\oddity0.03\enemy.h
+
+1239273874 c:\c\oddity0.03\intro.h
+
+1059220432 source:c:\c\oddity0.04\options.c
+	<stdio.h>
+	"options.h"
+
+1236304782 c:\c\oddity0.04\options.h
+	"allegro.h"
+
+1236881036 source:c:\c\oddity0.04\control.c
+	"allegro.h"
+	"control.h"
+
+1059220432 c:\c\oddity0.04\control.h
+	<stdio.h>
+
+1254931655 source:c:\c\oddity0.04\enemy.c
+	<allegro.h>
+	<math.h>
+	"main.h"
+	"dat/gfx.h"
+	"sfx.h"
+
+1255020845 c:\c\oddity0.04\main.h
+	"allegro.h"
+	"control.h"
+
+1252658573 c:\c\oddity0.04\gfx.h
+
+1243861388 c:\c\oddity0.04\sfx.h
+
+1255014790 source:c:\c\oddity0.04\intro.c
+	<allegro.h>
+	<math.h>
+	<string.h>
+	"control.h"
+	"options.h"
+	"main.h"
+	"hisc.h"
+	"editor.h"
+	"dat/gfx.h"
+
+1255021633 source:c:\c\oddity0.04\main.c
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"dat/gfx.h"
+	"sfx.h"
+	"control.h"
+	"options.h"
+	"hisc.h"
+	"enemy.h"
+	"intro.h"
+	"editor.h"
+	"events.h"
+	"main.h"
+	"gme/gme.h"
+
+1243943268 c:\c\oddity0.04\bg.h
+
+1254457838 c:\c\oddity0.04\enemy.h
+
+1246163114 c:\c\oddity0.04\intro.h
+
+1255015206 source:c:\c\oddity0.04\editor.c
+	<allegro.h>
+	<allegro.h>
+	<allegro.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"editor.h"
+	"events.h"
+	"control.h"
+	"main.h"
+	"intro.h"
+	"dat/gfx.h"
+	"gme/gme.h"
+
+1239794474 c:\c\oddity0.04\tiles.h
+
+1254669673 c:\c\oddity0.04\editor.h
+
+1240915090 c:\c\oddity0.04\events.h
+
+1254457838 source:c:\c\oddity0.04\events.c
+	<allegro.h>
+	<string.h>
+	"main.h"
+	"enemy.h"
+	"dat/gfx.h"
+
+1165836902 c:\c\oddity0.04\gme\gme.h
+
+1165286536 source:c:\c\oddity0.04\gme\ay_apu.cpp
+	"Ay_Apu.h"
+	"blargg_source.h"
+
+1165286532 c:\c\oddity0.04\gme\ay_apu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1165785230 c:\c\oddity0.04\gme\blargg_common.h
+	<stddef.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	"blargg_config.h"
+	<new>
+	<limits.h>
+	<stdint.h>
+	<inttypes.h>
+
+1249639962 c:\c\oddity0.04\gme\blargg_config.h
+	"config.h"
+
+1165454214 c:\c\oddity0.04\gme\blip_buffer.h
+	<limits.h>
+	"config.h"
+	<assert.h>
+
+1161036376 c:\c\oddity0.04\gme\blargg_source.h
+	<assert.h>
+
+1165224812 source:c:\c\oddity0.04\gme\ay_cpu.cpp
+	"Ay_Cpu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1163864352 c:\c\oddity0.04\gme\ay_cpu.h
+	"blargg_endian.h"
+
+1164997198 c:\c\oddity0.04\gme\blargg_endian.h
+	"blargg_common.h"
+	<endian.h>
+
+1219724936 source:c:\c\oddity0.04\gme\ay_emu.cpp
+	"Ay_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165219400 c:\c\oddity0.04\gme\ay_emu.h
+	"Classic_Emu.h"
+	"Ay_Apu.h"
+	"Ay_Cpu.h"
+
+1165297934 c:\c\oddity0.04\gme\classic_emu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+	"Music_Emu.h"
+
+1165548776 c:\c\oddity0.04\gme\music_emu.h
+	"Gme_File.h"
+
+1165548906 c:\c\oddity0.04\gme\gme_file.h
+	"gme.h"
+	"blargg_common.h"
+	"Data_Reader.h"
+	"M3u_Playlist.h"
+
+1165548726 c:\c\oddity0.04\gme\data_reader.h
+	"blargg_common.h"
+
+1164916824 c:\c\oddity0.04\gme\m3u_playlist.h
+	"blargg_common.h"
+	"Data_Reader.h"
+
+1165785238 source:c:\c\oddity0.04\gme\blip_buffer.cpp
+	"Blip_Buffer.h"
+	<assert.h>
+	<limits.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1165659216 source:c:\c\oddity0.04\gme\classic_emu.cpp
+	"Classic_Emu.h"
+	"Multi_Buffer.h"
+	<string.h>
+	"blargg_source.h"
+
+1163627930 c:\c\oddity0.04\gme\multi_buffer.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1165383526 source:c:\c\oddity0.04\gme\data_reader.cpp
+	"Data_Reader.h"
+	"blargg_endian.h"
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	"blargg_source.h"
+	"zlib.h"
+
+1164936038 source:c:\c\oddity0.04\gme\dual_resampler.cpp
+	"Dual_Resampler.h"
+	<stdlib.h>
+	<string.h>
+	"blargg_source.h"
+
+1164055886 c:\c\oddity0.04\gme\dual_resampler.h
+	"Fir_Resampler.h"
+	"Blip_Buffer.h"
+
+1165091896 c:\c\oddity0.04\gme\fir_resampler.h
+	"blargg_common.h"
+	<string.h>
+
+1165785248 source:c:\c\oddity0.04\gme\effects_buffer.cpp
+	"Effects_Buffer.h"
+	<string.h>
+	"blargg_source.h"
+
+1163627574 c:\c\oddity0.04\gme\effects_buffer.h
+	"Multi_Buffer.h"
+
+1165092016 source:c:\c\oddity0.04\gme\fir_resampler.cpp
+	"Fir_Resampler.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"blargg_source.h"
+
+1164939018 source:c:\c\oddity0.04\gme\gb_apu.cpp
+	"Gb_Apu.h"
+	<string.h>
+	"blargg_source.h"
+
+1163218074 c:\c\oddity0.04\gme\gb_apu.h
+	"Gb_Oscs.h"
+
+1165785252 c:\c\oddity0.04\gme\gb_oscs.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1165647900 source:c:\c\oddity0.04\gme\gb_cpu.cpp
+	"Gb_Cpu.h"
+	<string.h>
+	"gb_cpu_io.h"
+	"blargg_source.h"
+
+1164996512 c:\c\oddity0.04\gme\gb_cpu.h
+	"blargg_common.h"
+	"blargg_endian.h"
+
+1165290266 c:\c\oddity0.04\gme\gb_cpu_io.h
+	"Gbs_Emu.h"
+	"blargg_source.h"
+
+1165194362 c:\c\oddity0.04\gme\gbs_emu.h
+	"Classic_Emu.h"
+	"Gb_Apu.h"
+	"Gb_Cpu.h"
+
+1165092196 source:c:\c\oddity0.04\gme\gb_oscs.cpp
+	"Gb_Apu.h"
+	<string.h>
+	"blargg_source.h"
+
+1165455610 source:c:\c\oddity0.04\gme\gbs_emu.cpp
+	"Gbs_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165385392 source:c:\c\oddity0.04\gme\gme_file.cpp
+	"Gme_File.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165785254 source:c:\c\oddity0.04\gme\gym_emu.cpp
+	"Gym_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165194334 c:\c\oddity0.04\gme\gym_emu.h
+	"Dual_Resampler.h"
+	"Ym2612_Emu.h"
+	"Music_Emu.h"
+	"Sms_Apu.h"
+
+1137695858 c:\c\oddity0.04\gme\ym2612_emu.h
+
+1163628558 c:\c\oddity0.04\gme\sms_apu.h
+	"Sms_Oscs.h"
+
+1165846696 c:\c\oddity0.04\gme\sms_oscs.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1164563264 source:c:\c\oddity0.04\gme\hes_apu.cpp
+	"Hes_Apu.h"
+	<string.h>
+	"blargg_source.h"
+
+1165605562 c:\c\oddity0.04\gme\hes_apu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1165785258 source:c:\c\oddity0.04\gme\hes_cpu.cpp
+	"Hes_Cpu.h"
+	"blargg_endian.h"
+	"hes_cpu_io.h"
+	"blargg_source.h"
+
+1163627858 c:\c\oddity0.04\gme\hes_cpu.h
+	"blargg_common.h"
+
+1164563286 c:\c\oddity0.04\gme\hes_cpu_io.h
+	"Hes_Emu.h"
+	"blargg_source.h"
+
+1165297092 c:\c\oddity0.04\gme\hes_emu.h
+	"Classic_Emu.h"
+	"Hes_Apu.h"
+	"Hes_Cpu.h"
+
+1165542884 source:c:\c\oddity0.04\gme\hes_emu.cpp
+	"Hes_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165290106 source:c:\c\oddity0.04\gme\kss_cpu.cpp
+	"Kss_Cpu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1164839680 c:\c\oddity0.04\gme\kss_cpu.h
+	"blargg_endian.h"
+
+1165785260 source:c:\c\oddity0.04\gme\kss_emu.cpp
+	"Kss_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165194414 c:\c\oddity0.04\gme\kss_emu.h
+	"Classic_Emu.h"
+	"Kss_Scc_Apu.h"
+	"Kss_Cpu.h"
+	"Sms_Apu.h"
+	"Ay_Apu.h"
+
+1165488350 c:\c\oddity0.04\gme\kss_scc_apu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+	<string.h>
+
+1165092362 source:c:\c\oddity0.04\gme\kss_scc_apu.cpp
+	"Kss_Scc_Apu.h"
+	"blargg_source.h"
+
+1165546550 source:c:\c\oddity0.04\gme\m3u_playlist.cpp
+	"M3u_Playlist.h"
+	"Music_Emu.h"
+	<string.h>
+	"blargg_source.h"
+
+1164939024 source:c:\c\oddity0.04\gme\multi_buffer.cpp
+	"Multi_Buffer.h"
+	"blargg_source.h"
+
+1165785266 source:c:\c\oddity0.04\gme\music_emu.cpp
+	"Music_Emu.h"
+	"Multi_Buffer.h"
+	<string.h>
+	"blargg_source.h"
+
+1164939054 source:c:\c\oddity0.04\gme\nes_apu.cpp
+	"Nes_Apu.h"
+	"blargg_source.h"
+
+1163628458 c:\c\oddity0.04\gme\nes_apu.h
+	"blargg_common.h"
+	"Nes_Oscs.h"
+
+1164137826 c:\c\oddity0.04\gme\nes_oscs.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1165187244 source:c:\c\oddity0.04\gme\nes_cpu.cpp
+	"Nes_Cpu.h"
+	"blargg_endian.h"
+	<limits.h>
+	"nes_cpu_io.h"
+	"blargg_source.h"
+
+1163627026 c:\c\oddity0.04\gme\nes_cpu.h
+	"blargg_common.h"
+
+1165225644 c:\c\oddity0.04\gme\nes_cpu_io.h
+	"Nsf_Emu.h"
+	"Nes_Namco_Apu.h"
+	"blargg_source.h"
+
+1165194344 c:\c\oddity0.04\gme\nsf_emu.h
+	"Classic_Emu.h"
+	"Nes_Apu.h"
+	"Nes_Cpu.h"
+
+1163628630 c:\c\oddity0.04\gme\nes_namco_apu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1165785272 source:c:\c\oddity0.04\gme\nes_fme7_apu.cpp
+	"Nes_Fme7_Apu.h"
+	<string.h>
+	"blargg_source.h"
+
+1165785276 c:\c\oddity0.04\gme\nes_fme7_apu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1164995418 source:c:\c\oddity0.04\gme\nes_namco_apu.cpp
+	"Nes_Namco_Apu.h"
+	"blargg_source.h"
+
+1165092480 source:c:\c\oddity0.04\gme\nes_oscs.cpp
+	"Nes_Apu.h"
+	"blargg_source.h"
+
+1165193262 source:c:\c\oddity0.04\gme\nes_vrc6_apu.cpp
+	"Nes_Vrc6_Apu.h"
+	"blargg_source.h"
+
+1165193264 c:\c\oddity0.04\gme\nes_vrc6_apu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1219724938 source:c:\c\oddity0.04\gme\nsf_emu.cpp
+	"Nsf_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	<stdio.h>
+	"Nes_Namco_Apu.h"
+	"Nes_Vrc6_Apu.h"
+	"Nes_Fme7_Apu.h"
+	"blargg_source.h"
+
+1165659460 source:c:\c\oddity0.04\gme\nsfe_emu.cpp
+	"Nsfe_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	<ctype.h>
+	"blargg_source.h"
+
+1164646684 c:\c\oddity0.04\gme\nsfe_emu.h
+	"blargg_common.h"
+	"Nsf_Emu.h"
+
+1164572860 source:c:\c\oddity0.04\gme\sap_apu.cpp
+	"Sap_Apu.h"
+	<string.h>
+	"blargg_source.h"
+
+1163392190 c:\c\oddity0.04\gme\sap_apu.h
+	"blargg_common.h"
+	"Blip_Buffer.h"
+
+1165187256 source:c:\c\oddity0.04\gme\sap_cpu.cpp
+	"Sap_Cpu.h"
+	<limits.h>
+	"blargg_endian.h"
+	"sap_cpu_io.h"
+	"blargg_source.h"
+
+1163627030 c:\c\oddity0.04\gme\sap_cpu.h
+	"blargg_common.h"
+
+1165187334 c:\c\oddity0.04\gme\sap_cpu_io.h
+	"Sap_Emu.h"
+	"blargg_source.h"
+
+1165185448 c:\c\oddity0.04\gme\sap_emu.h
+	"Classic_Emu.h"
+	"Sap_Apu.h"
+	"Sap_Cpu.h"
+
+1165299782 source:c:\c\oddity0.04\gme\sap_emu.cpp
+	"Sap_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165092556 source:c:\c\oddity0.04\gme\sms_apu.cpp
+	"Sms_Apu.h"
+	"blargg_source.h"
+
+1165785278 source:c:\c\oddity0.04\gme\snes_spc.cpp
+	"Snes_Spc.h"
+	<string.h>
+	"blargg_source.h"
+
+1165132498 c:\c\oddity0.04\gme\snes_spc.h
+	"blargg_common.h"
+	"Spc_Cpu.h"
+	"Spc_Dsp.h"
+
+1163627038 c:\c\oddity0.04\gme\spc_cpu.h
+	"blargg_common.h"
+
+1165193366 c:\c\oddity0.04\gme\spc_dsp.h
+	"blargg_common.h"
+
+1165193326 source:c:\c\oddity0.04\gme\spc_cpu.cpp
+	"Spc_Cpu.h"
+	"blargg_endian.h"
+	"Snes_Spc.h"
+	"blargg_source.h"
+
+1165567942 source:c:\c\oddity0.04\gme\spc_dsp.cpp
+	"Spc_Dsp.h"
+	"blargg_endian.h"
+	<string.h>
+	"blargg_source.h"
+
+1165785284 source:c:\c\oddity0.04\gme\spc_emu.cpp
+	"Spc_Emu.h"
+	"blargg_endian.h"
+	<stdlib.h>
+	<string.h>
+	"blargg_source.h"
+
+1165785286 c:\c\oddity0.04\gme\spc_emu.h
+	"Fir_Resampler.h"
+	"Music_Emu.h"
+	"Snes_Spc.h"
+
+1165193542 source:c:\c\oddity0.04\gme\vgm_emu.cpp
+	"Vgm_Emu.h"
+	"blargg_endian.h"
+	<string.h>
+	<math.h>
+	"blargg_source.h"
+
+1165194326 c:\c\oddity0.04\gme\vgm_emu.h
+	"Vgm_Emu_Impl.h"
+
+1162572986 c:\c\oddity0.04\gme\vgm_emu_impl.h
+	"Dual_Resampler.h"
+	"Classic_Emu.h"
+	"Ym2413_Emu.h"
+	"Ym2612_Emu.h"
+	"Sms_Apu.h"
+
+1137695864 c:\c\oddity0.04\gme\ym2413_emu.h
+
+1162940072 source:c:\c\oddity0.04\gme\vgm_emu_impl.cpp
+	"Vgm_Emu.h"
+	<math.h>
+	<string.h>
+	"blargg_endian.h"
+	"blargg_source.h"
+
+1133023962 source:c:\c\oddity0.04\gme\ym2413_emu.cpp
+	"Ym2413_Emu.h"
+
+1165092738 source:c:\c\oddity0.04\gme\ym2612_emu.cpp
+	"Ym2612_Emu.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<math.h>
+
+1165659064 source:c:\c\oddity0.04\gme\gme.cpp
+	"Music_Emu.h"
+	"Effects_Buffer.h"
+	"blargg_endian.h"
+	<string.h>
+	<ctype.h>
+	"blargg_source.h"
+
+1244543904 source:c:\c\oddity0.04\hisc.c
+	<string.h>
+	"allegro.h"
+	"hisc.h"
+
+1244481838 c:\c\oddity0.04\hisc.h
+	"allegro.h"
+
+1254749342 c:\c\oddity0.04\dat\gfx.h
+

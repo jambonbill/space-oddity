@@ -1,0 +1,47 @@
+Space Oddity v0.4 (dev) - log
+-----------------------------------
+Allegro version: Allegro 4.2.2, MinGW32
+Revision Date: 7,22,2007
+OS: Windows XP 5 1
+
+Joystick not found :(
+
+Refresh rate: 60Hz
+
+Loading game data.
+Loading intro
+Loading gfx
+Loading sfx
+Loading backgrounds
+Ready.
+
+Loading ./vgm/menu.vgm
+Loading level ./levels/bees.odt
+Loading ./dat/tileset_oddity.bmp
+Loading ./vgm/maezawa&morimoto-gradius2.nsf
+Loading ./vgm/menu.vgm
+Loading level ./levels/POWERUPS.ODT
+Loading ./dat/tileset_oddity.bmp
+Loading ./vgm/maezawa&morimoto-gradius2.nsf
+Loading ./vgm/menu.vgm
+Loading level ./levels/POWERUPS.ODT
+Loading ./dat/tileset_oddity.bmp
+Loading ./vgm/maezawa&morimoto-gradius2.nsf
+Loading ./vgm/menu.vgm
+Loading level ./levels/asteroids.odt
+Loading ./dat/tileset_oddity.bmp
+Loading ./vgm/my_new_used_car.vgm
+Loading ./vgm/menu.vgm
+Loading level ./levels/bees.odt
+Loading ./dat/tileset_oddity.bmp
+Loading ./vgm/maezawa&morimoto-gradius2.nsf
+Loading ./vgm/menu.vgm
+
+Closing Space oddity
+--------------------
+Highest particule number: 63
+Stop audio stream
+Destroying emulator
+
+Done.
+

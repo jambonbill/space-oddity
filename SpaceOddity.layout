@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="control.c" open="0" top="0" tabpos="2">
+		<Cursor position="2795" topLine="9" />
+	</File>
+	<File name="control.h" open="0" top="0" tabpos="3">
+		<Cursor position="1520" topLine="23" />
+	</File>
+	<File name="editor.c" open="1" top="0" tabpos="4">
+		<Cursor position="47747" topLine="1562" />
+	</File>
+	<File name="editor.h" open="1" top="0" tabpos="9">
+		<Cursor position="1377" topLine="27" />
+	</File>
+	<File name="enemy.c" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="enemy.h" open="1" top="0" tabpos="6">
+		<Cursor position="826" topLine="0" />
+	</File>
+	<File name="events.c" open="1" top="0" tabpos="8">
+		<Cursor position="1744" topLine="251" />
+	</File>
+	<File name="events.h" open="1" top="0" tabpos="7">
+		<Cursor position="167" topLine="0" />
+	</File>
+	<File name="gfx.h" open="0" top="0" tabpos="3">
+		<Cursor position="1228" topLine="9" />
+	</File>
+	<File name="gme\Vgm_Emu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="879" topLine="69" />
+	</File>
+	<File name="gme\blargg_config.h" open="0" top="0" tabpos="6">
+		<Cursor position="312" topLine="0" />
+	</File>
+	<File name="gme\gme.h" open="0" top="0" tabpos="6">
+		<Cursor position="3586" topLine="132" />
+	</File>
+	<File name="hisc.c" open="0" top="0" tabpos="5">
+		<Cursor position="3725" topLine="136" />
+	</File>
+	<File name="hisc.h" open="0" top="0" tabpos="7">
+		<Cursor position="261" topLine="0" />
+	</File>
+	<File name="intro.c" open="1" top="0" tabpos="3">
+		<Cursor position="761" topLine="21" />
+	</File>
+	<File name="intro.h" open="0" top="0" tabpos="7">
+		<Cursor position="321" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="14664" topLine="566" />
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="2">
+		<Cursor position="5305" topLine="174" />
+	</File>
+	<File name="options.c" open="1" top="1" tabpos="10">
+		<Cursor position="1036" topLine="0" />
+	</File>
+	<File name="sfx.h" open="0" top="0" tabpos="6">
+		<Cursor position="192" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
